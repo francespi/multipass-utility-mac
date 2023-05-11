@@ -1,5 +1,5 @@
 # Multipass Utility For MacOS
-The Multipass Utility For MacOS is a lightweight and user-friendly utility designed to quickly start and stop a Multipass instance directly from your desktop, dock, or launchpad.
+Multipass Utility For MacOS is a lightweight and user-friendly utility designed to quickly start and stop a Multipass instance directly from your desktop, dock, or launchpad.
 
 ## Getting Started
 First, we need to create our app:
