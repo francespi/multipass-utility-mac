@@ -21,11 +21,11 @@ To start your instance:
 * A window dialog will appear
 * Click "Yes" to start your instance
 * Wait for confirmation (It can take several seconds)
-* Click "Ok"
+* Click "Close"
  
 To stop your instance:
 * Double-click the app
 * A window dialog will appear
 * Click "Yes" to stop your instance
 * Wait for confirmation (It can take several seconds)
-* Click "Ok"
+* Click "Close"
