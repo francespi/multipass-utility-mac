@@ -5,7 +5,7 @@ Multipass Utility For macOS is a lightweight and user-friendly utility designed 
 Multipass Utility doesn't need to be installed, simply:
 
  * Download the application.
- * Rename it with the name of your multipass instance.
+ * Rename it with the name of your Multipass instance.
  * Place the application wherever you'd like.
  * Enjoy!
 
