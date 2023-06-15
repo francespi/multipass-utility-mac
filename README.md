@@ -1,19 +1,15 @@
-# Multipass Utility For MacOS
-Multipass Utility For MacOS is a lightweight and user-friendly utility designed to quickly start and stop a Multipass instance directly from your desktop, dock, or launchpad.
+# Multipass Utility For macOS
+Multipass Utility For macOS is a lightweight and user-friendly utility designed to quickly start and stop a Multipass instance directly from your desktop, dock, or launchpad.
 
 ## Getting Started
-First, we need to create our app:
-* Open "Script Editor"
-* Create a new file:
-  * Go to File > New
-* Paste the code from the file "multipass_utility.scpt" into your file 
-* Replace <YOUR_INSTANCE_NAME> with the name of the your instance
-* Save as application: 
-  * Go to File > Save... 
-  * Choose a name for your application
-  * Select "Application" from the "File Format" drop-down menu
-  * Save
-* Place your new app wherever you'd like.
+Multipass Utility doesn't need to be installed, simply:
+
+ * Download the application.
+ * Rename it with the name of your multipass instance.
+ * Place the application wherever you'd like.
+ * Enjoy!
+
+You can create multiple copies of the application to manage more than one instance.
 
 ## Starting/Stopping Your Instance
 To start your instance:
